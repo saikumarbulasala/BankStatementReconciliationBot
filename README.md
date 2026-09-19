@@ -129,3 +129,14 @@ Converts the four counters to text and shows the reconciliation summary in a mes
 |---|---|---|
 | `vBankTable`, `vCompanyTable` | Table | Data read from the Excel files |
 | `vCurrentBankRow`, `vCurrentCompanyRow` | Record | Current
+## 👤 Author
+
+**Sai Kumar Bulasala**
+
+[GitHub](https://github.com/saikumarbulasala) · [LinkedIn](https://linkedin.com/in/bulasala-sai-kumar-18b83a360)
+
+---
+
+<p align="center">
+  Built with ❤️ by <b>Sai Kumar</b>
+</p>
