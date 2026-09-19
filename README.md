@@ -1,4 +1,4 @@
-<h1 align="center">🏦 Bank Reconciliation Bot</h1>
+<h1 align="center">🏦 Bank Statement Reconciliation Bot</h1>
 
 <p align="center">
   An RPA bot built in <b>Automation Anywhere A360</b> that reconciles a bank statement<br>
